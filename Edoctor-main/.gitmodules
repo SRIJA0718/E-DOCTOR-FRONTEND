@@ -1,0 +1,3 @@
+[submodule "frontend edoctor latest/e-doctor-frontend"]
+	path = frontend edoctor latest/e-doctor-frontend
+	url = https://github.com/Abhijeetkadtan/Edoctor-Frontend.git
